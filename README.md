@@ -3,6 +3,16 @@ Spring 2022
 
 # References 
 
+## Class 09 - And Or Not
+
+* [Video lecture](https://drive.google.com/file/d/18oY8u8FyrSakCcrALVda5qtZBKjfhonM/view?usp=sharing) 
+
+* Scam caller [demo](https://replit.com/@mcarlberg/Class09-ScamCallers)
+
+* and/or/not [tutorial](https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/).
+
+* Extended [reading](https://drive.google.com/file/d/1Gyqs1fXGq1vQ-gsIgByu52JyArWPy5Zj/view?usp=sharing)
+
 ## Class 07 - If Else
 
 * [Video lecture](https://drive.google.com/file/d/1YUl94RtO25E8pvyzT4cKXLEsiMmyzkCz/view?usp=sharing) 
