@@ -3,6 +3,25 @@ Spring 2022
 
 # References 
 
+## Class 17 - Lists
+
+* Counting common words [video lecture](https://drive.google.com/file/d/10T0cmiSTVVirozTyAPHO77GHfgHb1TL_/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/Class16ListAListB#README.md) 
+
+* Village neighborhoods [video lecture](https://drive.google.com/file/d/1hpP3ho4Tcepv7hohfCFBbrKln58kfFYv/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/Class17VillageNeighborhoods#main.py)
+
+* Secod largest number [video lecture](https://drive.google.com/file/d/1-G_xx4Sk8P8BpU33jsr856GYYXVZ3HLE/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/Class17SecondLargest#README.md) 
+
+* W3Schools Tutorials
+    * [Accessing items](https://www.w3schools.com/python/python_lists_access.asp) in a list
+    * [Looping](https://www.w3schools.com/python/python_lists_loop.asp) through lists
+    * List [methods](https://www.w3schools.com/python/python_lists_methods.asp)
+
+* Relevant [flash cards](https://drive.google.com/file/d/1eTtDb2-1MksedrCzar0WTU3Z3zGAxIgz/view?usp=sharing)
+
+* Extended [reading](https://drive.google.com/file/d/1eFgiYFafO4PejvoHHxm1umA8bvmuLliy/view?usp=sharing)
+
+
+
 ## Class 12 - For Loops
 
 * Data Plan demo: [video lecture](https://drive.google.com/file/d/1cMPipi4L_FJSXRkxMtIyZ3H7uHjzsYHk/view?usp=sharing) and [code](https://replit.com/@mcarlberg/Class11-DataPlan) 
