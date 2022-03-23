@@ -3,6 +3,23 @@ Spring 2022
 
 # References 
 
+## Class 26 - Functions
+
+
+* Card game [video lecture](https://watch.screencastify.com/v/NOv0RiOkecfsr0GaZCc1) and [demo code](https://replit.com/@mcarlberg/HW25DemoCardGame) 
+
+* Class 25 [presentation on functions](https://docs.google.com/presentation/d/17avL29-WAWEG8Rb8UUhuWnyI4Kbavhvmx1xfxUhH0YY/edit?usp=sharing)
+
+* HW 24 Functions Practice [Solutions](https://replit.com/@mcarlberg/HW24-FunctionsPractice-SOLUTIONS#main.py)
+
+* W3Schools tutorial on [functions](https://www.w3schools.com/python/python_functions.asp)
+   
+* Relevant [flash cards](https://drive.google.com/file/d/1Pbpyg1eRtImUo-kD8Pbx9Y5JPk1WavrA/view?usp=sharing)
+
+* Extended [reading](https://drive.google.com/file/d/1PVRf7MvHokHhCdiz7o4ey2tsB_nZSbgv/view?usp=sharing)
+
+
+
 ## Class 17 - Lists
 
 * Counting common words [video lecture](https://drive.google.com/file/d/10T0cmiSTVVirozTyAPHO77GHfgHb1TL_/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/Class16ListAListB#README.md) 
